@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SInMzWzGpd6IvAncm67C3U2MSXuCCiGKuu9yXbid8Hyrab67GuhgLG1gTyLhSk8ssXgtnalThSQTizSOI7ESKw==",
+  "success": true,
+  "projectFilePath": "D:\\JetBrains Rider 2021.2.1\\projects\\AlgoLab5\\AlgoLab5\\AlgoLab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
